@@ -31,4 +31,9 @@ exp h = new exp();
 h.private_print();
 }
 }
-/* */
+/*
+javac -d . week8ii.java
+java p2.week8ii
+javac -d . exp.java
+java p1.exp
+*/
