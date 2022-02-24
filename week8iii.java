@@ -1,10 +1,13 @@
 package p2;
 import p1.*;
-class week8iii extends exp
+class b extends exp
 {
+
+}
+class week8iii {
 public static void main(String[]args)
 {
-week8iii wi = new week8iii();
-wi.public_print();
+b w = new b();
+w.public_print();
 }
 }
